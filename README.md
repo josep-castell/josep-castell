@@ -1,8 +1,16 @@
 ## **Josep Castell**
+### Frontend developer
 
-I'm currently studying *web application development* in CIFP Francesc de Borja Moll, Mallorca.
+Actually working as a frontend developer specialized in Angular.
 
-By this moment I've worked with:
+- Angular
+- TypeScript
+- RxJs
+- AngularSignals
+
+Former *web application development* student in CIFP Francesc de Borja Moll, Mallorca.
+
+There we were using:
 - HTML
 - CSS
 - JavaScript
@@ -14,7 +22,6 @@ By this moment I've worked with:
 - Nginx
 - Tomcat
 - Docker
-
-As I'm new in this developing world I like every field, and I have curiosity about how everything works.
-
-I'm specially interested in frontend developing.
+- Php 
+   - Laravel
+- Vue
